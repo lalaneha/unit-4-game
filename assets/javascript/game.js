@@ -87,7 +87,7 @@ function reset()
 function wins()
 {
     //wins
-    alert ("Congratulations!! You Won SUPERPOWERS! ");
+    alert ("Congratulations!! You Won Magical Powers!");
     winCount++;
     $("#varWins").text(winCount);
     reset();
